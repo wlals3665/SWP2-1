@@ -9,3 +9,8 @@ n = int(input("숫자를 입력하세요 "))
 
 for i in range(1, n+1):
     print("*"*i)
+
+#박재우 - JW0705
+num = int(input("숫자를 입력하세요 : "))
+for i in range(1, num+1):
+    print('*' * i, end='\n')

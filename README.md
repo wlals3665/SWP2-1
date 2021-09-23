@@ -25,3 +25,16 @@ Please read this document before writing any commit
 6. after that remove the temp brench and sync your fork ($ git checkout master, git pull origin)
 
 If changes to the master branch have a conflict, it should be merged with a merge commit (git fetch upstream/master; git merge upstream/master).
+
+### Contribute files
+On any week's file the files will be contributed as [Assignment_name]-[Github username] format
+
+> Triangle-SkuldNorniern.py
+
+And also in the files that you write on the very top use comment and put your name and student number in [Name]-[Student Number] format
+
+```
+
+# 박윤재-20212998
+
+```

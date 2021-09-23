@@ -23,3 +23,9 @@ for i in range(int(input("input num: "))):
 num = int(input("숫자를 입력하세요: "))
 for i in range(1,num+1):
     print('*' * i)
+    
+#박시윤 - tldbs0420
+line=int(input("줄 입력 : "))
+
+for n in range(1,line+1):
+    print('*'*n,end='\n')

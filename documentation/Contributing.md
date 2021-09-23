@@ -67,7 +67,7 @@ Example 2 :
     /core
         / parser.rs
 ```
-### Each tab is equal to 4 space 
+Each tab is equal to 4 space 
 ## Final Summary
 
 ---

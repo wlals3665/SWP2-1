@@ -17,7 +17,7 @@ Please read this document before writing any commit
 
 ### How to Contribute
 
-1. Fork the repo ()
+1. Fork the repo (https://github.com/SkuldNorniern/SWP2/fork)
 2. Clone it to your pc
 3. config remote storage in the cloned storage and make a tempory brench for pull request (git remote -v)
 4. after that commit and push the code in the branch that we just made it

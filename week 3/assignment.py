@@ -14,3 +14,7 @@ for i in range(1, n+1):
 num = int(input("숫자를 입력하세요 : "))
 for i in range(1, num+1):
     print('*' * i, end='\n')
+
+#백연선 - BaekYeonSun
+for i in range(int(input("input num: "))):
+    print('*' * (i+1))

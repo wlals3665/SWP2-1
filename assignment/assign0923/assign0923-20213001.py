@@ -1,4 +1,4 @@
-# 
+# 박지민 -20213001
 import pickle
 
 dbfilename = 'wlals3665.dat'

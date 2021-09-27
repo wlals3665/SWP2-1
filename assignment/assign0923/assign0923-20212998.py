@@ -1,7 +1,7 @@
 # 박윤재-20212998
 import pickle
 
-dfn= 'SkuldNorniern.dat'
+dfn= 'SkuldNorniern-20212998.dat'
 
 def ReadSDB():
     try:
